@@ -1,7 +1,7 @@
 /**
  * Add your hosted dev URL here
  */
-const HOSTED_URL = 'https://dev.domain.com';
+const HOSTED_URL = 'https://main.daohmvy74x3vy.amplifyapp.com';
 
 const configDevelopment = {
   HOSTED_URL,
