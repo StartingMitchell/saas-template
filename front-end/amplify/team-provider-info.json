@@ -10,6 +10,14 @@
       "StackName": "amplify-startingsecurity-dev-192111",
       "StackId": "arn:aws:cloudformation:us-west-1:655334175343:stack/amplify-startingsecurity-dev-192111/cac14410-089b-11ed-91b7-06ec1b07324b",
       "AmplifyAppId": "daohmvy74x3vy"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "daohmvy74x3vy",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
